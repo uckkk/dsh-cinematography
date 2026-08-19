@@ -30,3 +30,5 @@ dsh plugin add github:uckkk/dsh-cinematography
 ## 许可
 
 MIT
+
+> 安装即在本机运行第三方代码，请自行审阅源码。
