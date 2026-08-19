@@ -1,0 +1,4 @@
+# 电影运镜与镜头语言参考（dsh-cinematography）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: cinematography
+      name: 'dsh-cinematography'
